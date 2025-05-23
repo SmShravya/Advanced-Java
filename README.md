@@ -118,7 +118,7 @@ function generateRandomString()
 Q10. Write a Java Program for Counting the number of words in a string using user defined function
 countWords()
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/3c.%20String%20Exercise%20progams/StringWordCounter.png)
+[🔗 Output Screenshot](https://github.com/SmShravya/Advanced-Java/blob/main/3c%20StringExercise/WordCounter.png)
 
 
 ## 4a. Basic hello program of Swing displaying the message Hello! VI C , Welcome to Swing Programming in Blue color plain font with font size of 32 using Jframe and Jlabel
