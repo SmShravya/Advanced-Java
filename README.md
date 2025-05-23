@@ -164,40 +164,40 @@ countWords()
 
 
 ## 7a. Build a Session Management using JSP program set with one minute session expiry time to get your name through text box and press submit to display the message by greeting Hello your name!. Check the expiry of the session after one minute.
-[🔗 Output Screenshot 1](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab7_SessionCookie/Session%20Management%201.png)
-[🔗 Output Screenshot 2](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab7_SessionCookie/Session%20Management%202.png)
-[🔗 Output Screenshot 3](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab7_SessionCookie/Session%20Management%203.png)
-[🔗 Output Screenshot 4](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab7_SessionCookie/Session%20Management%204.png)
+[🔗 Output Screenshot 1](https://github.com/SmShravya/Advanced-Java/blob/main/7a%20SessionManagement_JSP/SM.png)
+[🔗 Output Screenshot 2](https://github.com/SmShravya/Advanced-Java/blob/main/7a%20SessionManagement_JSP/SM1.png)
+[🔗 Output Screenshot 3](https://github.com/SmShravya/Advanced-Java/blob/main/7a%20SessionManagement_JSP/SM2.png)
+[🔗 Output Screenshot 4](https://github.com/SmShravya/Advanced-Java/blob/main/7a%20SessionManagement_JSP/SM3.png)
 
 ## 7b. Construct a Cookie Management program using JSP to get the fields Name, Domain and Max Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then it has to go to show the active cookie list when you press the link go to the active cookie list
-[🔗 Output Screenshot 1](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab7_CookieManagement/Cookie%20Management1.png)
-[🔗 Output Screenshot 2](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab7_CookieManagement/Cookie%20Management2.png)
-[🔗 Output Screenshot 3](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab7_CookieManagement/Cookie%20Management3.png)
+[🔗 Output Screenshot 1](https://github.com/SmShravya/Advanced-Java/blob/main/7b%20CookieManagement_JSP/Cookie1.png)
+[🔗 Output Screenshot 2](https://github.com/SmShravya/Advanced-Java/blob/main/7b%20CookieManagement_JSP/Cookie2.png)
+[🔗 Output Screenshot 3](https://github.com/SmShravya/Advanced-Java/blob/main/7b%20CookieManagement_JSP/Cookie3.png)
 
 ## 8a Q1. Read all the existing records from the table coffee which is from the database test and insert a new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab8/8a_8b/addCoffee1..png)
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab8/8a_8b/addCoffee.png)
+[🔗 Output Screenshot](https://github.com/SmShravya/Advanced-Java/blob/main/8%20DBC%20JSP%20Programs%201/8a%20InsertCoffee_JDBC/addCoffee.png)
+[🔗 Output Screenshot](https://github.com/SmShravya/Advanced-Java/blob/main/8%20DBC%20JSP%20Programs%201/8a%20InsertCoffee_JDBC/addCoffee1..png)
 
 
 ## 8b. Read all the existing records from the table coffee which is from the database test and update an existing coffee product in the table with its id. [Create a table coffee with fields(id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab8/8a_8b/update%20(2).png)
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab8/8a_8b/update%20(1).png)
+[🔗 Output Screenshot](https://github.com/SmShravya/Advanced-Java/blob/main/8%20DBC%20JSP%20Programs%201/8b%20UpdateCoffee_JDBC/update%20(1).png)
+[🔗 Output Screenshot](https://github.com/SmShravya/Advanced-Java/blob/main/8%20DBC%20JSP%20Programs%201/8b%20UpdateCoffee_JDBC/update%20(2).png)
 
 
 ## 8c. Develop a JDBC project using JSP to append the fields empno, empname and basicsalary into the table Emp of the database Employee by getting the fields through keyboard and Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP to get the fields and display the results respectively
 
-[🔗 Output Screenshot 1](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab8/8c_8d/insert.png) 
-[🔗 Output Screenshot 2](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab8/8c_8d/insert1.png)
-[🔗 Output Screenshot 3](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab8/8c_8d/insert2.png)
+[🔗 Output Screenshot 1](https://github.com/SmShravya/Advanced-Java/blob/main/8%20DBC%20JSP%20Programs%201/8c%20InsertEmployee_JDBC/insert.png) 
+[🔗 Output Screenshot 2](https://github.com/SmShravya/Advanced-Java/blob/main/8%20DBC%20JSP%20Programs%201/8c%20InsertEmployee_JDBC/insert1.png)
+[🔗 Output Screenshot 3](https://github.com/SmShravya/Advanced-Java/blob/main/8%20DBC%20JSP%20Programs%201/8c%20InsertEmployee_JDBC/insert2.png)
 
 
 ## 8d. Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into the table Emp of the database Employee using HTML and JSP to get the fields and display the results respectively
 
-[🔗 Output Screenshot 1 ](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab8/8c_8d/update.png)
-[🔗 Output Screenshot 2 ](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab8/8c_8d/update1.png)
-[🔗 Output Screenshot 3](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab8/8c_8d/update2.png)
+[🔗 Output Screenshot 1 ](https://github.com/SmShravya/Advanced-Java/blob/main/8%20DBC%20JSP%20Programs%201/8d%20UpdateEmployee_JDBC/update..png)
+[🔗 Output Screenshot 2 ](https://github.com/SmShravya/Advanced-Java/blob/main/8%20DBC%20JSP%20Programs%201/8d%20UpdateEmployee_JDBC/update1..png)
+[🔗 Output Screenshot 3](https://github.com/SmShravya/Advanced-Java/blob/main/8%20DBC%20JSP%20Programs%201/8d%20UpdateEmployee_JDBC/update2..png)
 
 ## 9a. Read all the existing records from the table coffee which is from the database test and delete an existing coffee product from the table with its id and display the rest of the records using HTML and JSP to get the field and display the results respectively
 
