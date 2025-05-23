@@ -5,8 +5,7 @@ Adding elements, 2. Adding element at specific index, 3. Adding multiple element
 ## 1b. Array List programs
 1.Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not
 
-[Output Sreenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/p1output.png)
-
+[Output Sreenshot](https://github.com/SmShravya/Advanced-Java/blob/main/1b%20ArrayList/ColorSearch.png).
 2.Write a java program for getting different colors through ArrayList interface and remove the 2nd element and color "Blue" from the ArrayList 
 
 [Output Sreenshot](https://github.com/Sharath8i/Advanced-Java/blob/main/Exp1-ListInterface/p2output.png)
