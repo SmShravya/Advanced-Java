@@ -133,36 +133,34 @@ countWords()
 
 ## 5a. Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada, Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and display them on console whenever the countries are selected on the list.
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/5.Swing/JListExample.png)
+[🔗 Output Screenshot](https://github.com/SmShravya/Advanced-Java/blob/main/5%20SwingsPrograms/JListExample.png)
 
 ## 5b. Develop a Swing program in Java to create a Tabbed Pan of RED, BLUE and GREEN and display the concerned color whenever the specific tab is selected in the Pan.
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/5.Swing/TabbedPaneExample.png)
+[🔗 Output Screenshot](https://github.com/SmShravya/Advanced-Java/blob/main/5%20SwingsPrograms/TabbedPaneExample.png)
 
 
 ## 5c. Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada, Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and display the capital of the countries on console whenever the countries are selected on the list.
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/5.Swing/CountryCapitalList.png)
+[🔗 Output Screenshot](https://github.com/SmShravya/Advanced-Java/blob/main/5%20SwingsPrograms/CountryCapitalList.png)
 
 ## 5d. Develop a Swing program in Java to create a Tabbed Pan of Cyan, Magenta and Yellow and display the concerned color whenever the specific tab is selected in the Pan
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/5.Swing/ColorTabbedPane.png)
+[🔗 Output Screenshot](https://github.com/SmShravya/Advanced-Java/blob/main/5%20SwingsPrograms/ColorTabbedPane.png)
 
 
 ## 6a. Build a servlet program to find the factorial of a number using HTML with step by step procedure.
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab6/Fact_1.png)
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab6/Fact_2.png)
+[🔗 Output Screenshot](https://github.com/SmShravya/Advanced-Java/blob/main/6%20ServletPrograms/6a%20Factorial_Servlet/factorialservlet.png)
 
 ## 6b. Build a servlet program to create a cookie to get your name through text box and press submit button( through HTML) to display the message by greeting Welcome back your name ! , you have visited this page n times ( n = number of your visit ) and demonstrate the expiry of cookie also.
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab6/CookieDemo_1.jpeg)
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab6/CookieDemo_2.jpeg)
+[🔗 Output Screenshot](https://github.com/SmShravya/Advanced-Java/blob/main/6%20ServletPrograms/6b%20Cookie_Servlet/CookieServlet.jpg)
+
 
 ## 6c. Build a servlet program to check the given number is prime number or not using HTML with step by step procedure.
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab6/Prime.jpeg)
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab6/Prime_1.jpeg)
+[🔗 Output Screenshot](https://github.com/SmShravya/Advanced-Java/blob/main/6%20ServletPrograms/6c%20PrimeNumber_Servlet/primeNumberServlet.png)
 
 
 ## 7a. Build a Session Management using JSP program set with one minute session expiry time to get your name through text box and press submit to display the message by greeting Hello your name!. Check the expiry of the session after one minute.
